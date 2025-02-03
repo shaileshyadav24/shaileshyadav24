@@ -2,7 +2,7 @@
 
 Welcome to my github website showcasing 8+ years of experience in full-stack development. This platform highlights my technical expertise, projects, and professional journey.
 
-[Live Demo](https://shailesh-yadav.vercel.app) | [LinkedIn](https://linkedin.com/in/shaileshkyadav24) | [GitHub](https://github.com/shaileshyadav24)
+[Website](https://shailesh-yadav.vercel.app) | [LinkedIn](https://linkedin.com/in/shaileshkyadav24) | [GitHub](https://github.com/shaileshyadav24)
 
 ---
 
