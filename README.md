@@ -1,4 +1,4 @@
-# Hi there 👋,
+# Hi there 👋
 
 Welcome to my github website showcasing 8+ years of experience in full-stack development. This platform highlights my technical expertise, projects, and professional journey.
 
