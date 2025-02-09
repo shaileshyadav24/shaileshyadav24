@@ -54,14 +54,3 @@ Senior Web Developer specializing in modern web technologies with certifications
 
 ---
 
-## ✨ Key Features
-
-- Responsive Design (Mobile-First Approach)
-- Interactive Animations with Framer Motion
-- Dark/Light Mode Toggle
-- Project Showcase with Filtering
-- Contact Form Integration
-- SEO Optimization
-- CI/CD Pipeline Implementation
-
----
